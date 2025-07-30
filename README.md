@@ -18,6 +18,6 @@ A personal website template with interactive features.
 
 ## Setup
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo-name.git`
+1. Clone the repository: `git clone https://github.com/Orgilsaikhan/Mendee-Al`
 2. Open `index.html` in your web browser.
 3. Customize the content in `index.html`, `style.css`, and `script.js` to personalize your website.
